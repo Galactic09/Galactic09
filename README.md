@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Galactic09
+- 👀 I’m interested in Information Security
+- 🌱 I’m currently learning Bash and powershell scripting
