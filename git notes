@@ -1,3 +1,6 @@
 git status --check tracked and untracked files
 git add /filepath -- add files
 git add . --Tracks all the files in directory
+git commit -m "names.txt files modified" 
+git log --logs of all the commits that were made
+git stash --go to previous state
