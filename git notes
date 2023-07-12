@@ -1,0 +1,3 @@
+git status --check tracked and untracked files
+git add /filepath -- add files
+git add . --Tracks all the files in directory
